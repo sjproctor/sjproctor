@@ -1,7 +1,7 @@
 ### Hi there, I'm Sarah 👋
-👩‍💻 I am the Director of Academic Experience at LEARN Academy, a full-stack web development bootcamp headquartered in San Diego, California. We work primarily in React and Ruby on Rails.
-💥 I am passionate about creating a welcoming, inclusive learning space for people making the transition into a career in technology. I hope to inspire students to step outside their comfort zones and embrace personal growth along with learning the fundamentals of development.
-👥 I am an organizer of SD Ruby, a local meetup group for all developers looking to learn about Ruby, Ruby on Rails, and everything else!
+👩‍💻 I am the Director of Academic Experience at LEARN Academy, a full-stack web development bootcamp headquartered in San Diego, California. We work primarily in React and Ruby on Rails.  
+💥 I am passionate about creating a welcoming, inclusive learning space for people making the transition into a career in technology. I hope to inspire students to step outside their comfort zones and embrace personal growth along with learning the fundamentals of development.  
+👥 I am an organizer of SD Ruby, a local meetup group for all developers looking to learn about Ruby, Ruby on Rails, and everything else!  
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/sarah-proctor-sd/).
 
 
