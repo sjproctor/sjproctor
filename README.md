@@ -1,8 +1,7 @@
-<h1 align="center">Hi there, I'm Sarah 👋</h1>
-
+<h3 align="center" height="40em">Hi there, I'm Sarah 👋</h3>
+<br />
 ![LinkedIn Banner](https://github.com/sjproctor/sjproctor/assets/42073869/9d7d2d55-be0a-48e5-a1db-56ba2caabdb5)
-
----
+<br />
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,13 +28,11 @@
 - 👩‍💻 I am the Director of Academic Experience at [LEARN Academy](https://learnacademy.org/), a full-stack web development bootcamp headquartered in San Diego, California. We work primarily in React and Ruby on Rails.  
 - 💥 I am passionate about creating a welcoming, inclusive learning space for people making the transition into a career in technology. I hope to inspire students to step outside their comfort zones and embrace personal growth while learning the fundamentals of development.  
 - 👥 I am an organizer of [SD Ruby](https://www.meetup.com/sdruby/), a local meetup group for all developers looking to learn about Ruby, Ruby on Rails, and everything else!
-
----
-
+<br />
 <h3 align="center">Connect with me on LinkedIn!</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/sarahproctor-dev">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn logo" height="40em" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn logo" height="40em" />
   </a>
 </div>
 
@@ -45,7 +42,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdg5GJIdzwhDijt5onm-FoHRLu3vB6JKZEuuE_7pxSgS8nEA3C8y8b4-iuP9Ga-IzV2lY&usqp=CAU" alt="GitHub Octocat logo" height="40em" />
 </div>
 
-<div style="display: flex;">
+<div style="display: flex;" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjproctor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub stats for user sjproctor" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjproctor&theme=tokyonight" alt="GitHub top languages for user sjproctor" />
 </div>
