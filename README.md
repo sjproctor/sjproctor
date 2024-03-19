@@ -1,4 +1,4 @@
-### Hi there, I'm Sarah 👋
+<h3 style="text-align: center;">Hi there, I'm Sarah 👋</h3>
 
 ---
 
