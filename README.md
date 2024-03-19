@@ -7,6 +7,7 @@
 - 👥 I am an organizer of [SD Ruby](https://www.meetup.com/sdruby/), a local meetup group for all developers looking to learn about Ruby, Ruby on Rails, and everything else!  
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/sarah-proctor-sd/).
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjproctor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
