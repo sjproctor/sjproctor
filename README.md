@@ -33,5 +33,11 @@
 - 👥 I am an organizer of [SD Ruby](https://www.meetup.com/sdruby/), a local meetup group for all developers looking to learn about Ruby, Ruby on Rails, and everything else!  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sarahproctor-dev/))
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjproctor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjproctor&theme=tokyonight" />
+<div style="text-align: center;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdg5GJIdzwhDijt5onm-FoHRLu3vB6JKZEuuE_7pxSgS8nEA3C8y8b4-iuP9Ga-IzV2lY&usqp=CAU" alt="GitHub Octocat logo" height="40em" />
+</div>
+
+<div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjproctor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub stats for user sjproctor" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjproctor&theme=tokyonight" alt="GitHub top languages for user sjproctor" />
+</div>
