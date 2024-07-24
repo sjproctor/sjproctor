@@ -2,7 +2,7 @@
 
 ---
 
-![LinkedIn Banner](https://github.com/sjproctor/sjproctor/assets/42073869/9d7d2d55-be0a-48e5-a1db-56ba2caabdb5)
+![LinkedIn Banner](![linked-in-banner](https://github.com/user-attachments/assets/12c688ca-a205-4109-b3e4-6672f7992c42)
 
 ---
 
