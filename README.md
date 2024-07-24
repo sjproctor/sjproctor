@@ -2,7 +2,7 @@
 
 ---
 
-![LinkedIn Banner](![linked-in-banner](https://github.com/user-attachments/assets/12c688ca-a205-4109-b3e4-6672f7992c42))
+![LinkedIn Banner](https://github.com/user-attachments/assets/12c688ca-a205-4109-b3e4-6672f7992c42)
 
 ---
 
